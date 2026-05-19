@@ -6,7 +6,7 @@ CaRTS is a two-stage framework for time series forecasting. The `Retrieval` modu
 
 The overview pipeline is shown below.
 
-![CaRTS overview](./pic/carts.png)
+<img src="./pic/carts.png" alt="CaRTS overview" width="400" />
 
 ## Structure
 
